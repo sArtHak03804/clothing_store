@@ -76,20 +76,19 @@ Our E-Commerce Project utilizes a variety of technologies to deliver a robust an
 
 Feel free to explore our project repository for more details on how these technologies are utilized, and don't hesitate to reach out if you have any questions or suggestions!  
 
-[![HTML5](https://img.shields.io/badge/HTML5-Used-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-Used-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Used-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![jQuery](https://img.shields.io/badge/jQuery-Used-blue)](https://jquery.com/)
-[![PHP](https://img.shields.io/badge/PHP-Used-purple)](https://www.php.net/)
-[![MySQL](https://img.shields.io/badge/MySQL-Used-blue)](https://www.mysql.com/)
-[![AJAX](https://img.shields.io/badge/AJAX-Used-blue)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-Used-blueviolet)](https://getbootstrap.com/)
-[![Git](https://img.shields.io/badge/Git-Used-red)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Used-brightgreen)](https://github.com/)
-[![VSCode](https://img.shields.io/badge/VSCode-Used-blue)](https://code.visualstudio.com/)
-[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Used-green)](https://fonts.google.com/)
-[![FontAwesome](https://img.shields.io/badge/FontAwesome-Used-lightgrey)](https://fontawesome.com/)
-
+[![HTML5](https://img.shields.io/badge/HTML5-Used-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Used-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Used-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![jQuery](https://img.shields.io/badge/jQuery-Used-blue?logo=jquery)](https://jquery.com/)
+[![PHP](https://img.shields.io/badge/PHP-Used-purple?logo=php)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-Used-blue?logo=mysql)](https://www.mysql.com/)
+[![AJAX](https://img.shields.io/badge/AJAX-Used-blue?logo=ajax)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-Used-blueviolet?logo=bootstrap)](https://getbootstrap.com/)
+[![Git](https://img.shields.io/badge/Git-Used-red?logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Used-brightgreen?logo=github)](https://github.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-Used-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Used-green?logo=google-fonts)](https://fonts.google.com/)
+[![FontAwesome](https://img.shields.io/badge/FontAwesome-Used-lightgrey?logo=font-awesome)](https://fontawesome.com/)
 
 ## System Architecture
 
@@ -223,7 +222,7 @@ The admin interface offers powerful management tools for administrators to effic
 ### Screenshots:
 
 #### Customer Interface:
-![Customer Interface](src/user_interface.png)
+![Customer Interface](src/customer_interface.png)
 
 #### Admin Interface:
 ![Admin Interface](src/admin_interface.png)
