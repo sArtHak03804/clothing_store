@@ -222,7 +222,7 @@ The admin interface offers powerful management tools for administrators to effic
 ### Screenshots:
 
 #### Customer Interface:
-![Customer Interface](src/customer_interface.png)
+![Customer Interface](src/user_interface.png)
 
 #### Admin Interface:
 ![Admin Interface](src/admin_interface.png)
