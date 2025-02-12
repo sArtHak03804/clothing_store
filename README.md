@@ -12,7 +12,7 @@
 12. [Acknowledgements](#acknowledgements)
 ---
 Here is a Drive folder link including all source files with Admin and Front Panel.
-[https://drive.google.com/drive/folders/1fhm9UCs1jBCIERmjEx2BSw8XS6FsDtcX?usp=drive_link]
+[https://drive.google.com/drive/folders/1shxVnmItBHS7xNJp2WS_m2QpcvVF7D5C]
 ## Introduction
 
 Welcome to our E-Commerce Project! This project aims to provide a comprehensive online shopping experience for customers while offering powerful administrative tools for managing products, orders, and users. With a user-friendly interface and robust backend functionality, our platform caters to both customers and administrators, ensuring a seamless and efficient e-commerce operation.
